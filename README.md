@@ -13,7 +13,7 @@ Anyway, my point is, I didn't invent this idea, I just wanted to see if I could 
 I decided to try the exact approach (and dataset) from the fivethirtyeight.
 
 ### Baby names
-I grabbed the [baby name date from the Social Security Administration](http://www.ssa.gov/oact/babynames/names.zip)
+I grabbed the [baby name data from the Social Security Administration](http://www.ssa.gov/oact/babynames/names.zip)
 which contains the first names of every baby born, "[with at least 5 occurrences](http://www.ssa.gov/oact/babynames/limits.html)," since 1880.
 
 ### Deaths
