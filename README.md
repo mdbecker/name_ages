@@ -1,5 +1,5 @@
 # name_ages
-Predicting the age of Americans based on names (as of the end of 2014).
+Predicting the age of Americans based on first names (as of the end of 2014).
 
 ## The technique
 I'm pretty sure I originally heard about this technique a few years back at a data conference (either Strata or PyData).
