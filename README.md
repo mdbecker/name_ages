@@ -1,5 +1,7 @@
 # name_ages
 Predicting the age of Americans based on first names (as of the end of 2014).
+**[View my IPython Notebook here](http://nbviewer.ipython.org/github/mdbecker/name_ages/blob/master/names_age.ipynb)**
+
 
 ## The technique
 I'm pretty sure I originally heard about this technique a few years back at a data conference (either Strata or PyData).
