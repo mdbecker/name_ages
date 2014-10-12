@@ -22,6 +22,8 @@ To properly predict how many people are alive **today** with any given name, we 
 "Life Tables" by the SSA) to predict how many deaths have occured.
 
 ## The results
+**[View my IPython Notebook here](http://nbviewer.ipython.org/github/mdbecker/name_ages/blob/master/names_age.ipynb)**
+
 My results are almost exactly identical to the results from fivethirtyeight. I attribute the slight differences
 I'm seeing in my results to the fact that I'm predicting out to January 1st, 2014 whereas fivethirtyeight
 predicted out to January 1st, 2013. It's possible our techniques varied but I can't really tell since fivethirtyeight
