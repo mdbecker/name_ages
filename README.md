@@ -26,3 +26,12 @@ My results are almost exactly identical to the results from fivethirtyeight. I a
 I'm seeing in my results to the fact that I'm predicting out to January 1st, 2014 whereas fivethirtyeight
 predicted out to January 1st, 2013. It's possible our techniques varied but I can't really tell since fivethirtyeight
 does not show their work.
+
+*Note that the order of the X axis is reversed in my graphs*
+### Josephs
+![fivethirtyeight](https://espnfivethirtyeight.files.wordpress.com/2014/05/silver-feature-joseph2.png?w=1150)
+![me](https://raw.githubusercontent.com/mdbecker/name_ages/master/josephs.png)
+
+### Brittanys
+![fivethirtyeight](https://espnfivethirtyeight.files.wordpress.com/2014/05/silver-feature-brittany3.png?w=1150)
+![me](https://raw.githubusercontent.com/mdbecker/name_ages/master/brittanys.png)
